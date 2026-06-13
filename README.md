@@ -59,8 +59,8 @@ Pixel domain   →   DCT   →   embed in mid-freq coefficients   →   IDCT   �
 
 | Metric | QSteg (DCT) | Basic LSB |
 |---|---|---|
-| **Chi-square p-value** | > 0.05 ✅ UNDETECTED | ~0.000000 ❌ CAUGHT |
-| **RS Analysis score** | < 0.1 ✅ CLEAN | > 0.5 ❌ DETECTED |
+| **Chi-square p-value** | > 0.05  UNDETECTED | ~0.000000  CAUGHT |
+| **RS Analysis score** | < 0.1  CLEAN | > 0.5  DETECTED |
 | **PSNR** | > 42 dB (better than JPEG 90%) | ~51 dB |
 | **SSIM** | > 0.999 | ~0.999 |
 | **Message security** | AES-256-GCM encrypted | Plaintext in bits |
