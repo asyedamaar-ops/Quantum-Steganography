@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+pillow
+scipy
+pycryptodome
+numpy
+matplotlib
+scikit-image
